@@ -19,6 +19,5 @@ Veja os estados de foco e foco de todos os elementos interativos na página
 Bônus: conecte o formulário para enviar e armazenar a consulta do usuário (você pode usar uma planilha ou Airtable para salvar as consultas)
 Bônus: adicione seus próprios detalhes (imagem, habilidades, projetos) para substituir os do design
 
-Baixe o código inicial e acesse o arquivo README.md. Isso fornecerá mais detalhes sobre o projeto. O arquivo style-guide.md é onde você encontrará cores, fontes, etc.
 
 
