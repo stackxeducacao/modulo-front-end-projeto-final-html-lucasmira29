@@ -1,0 +1,76 @@
+.apresentacao__conteudo__titulo {
+    text-align: center;
+}
+
+
+.apresentacao__conteudo {
+    width: 100%;
+    display: block;
+}
+
+.formulario__container {
+    display: flex;
+    justify-content: center;
+}
+
+
+.apresentacao__conteudo__formulario {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    height: 530px;
+    width: 100%;
+}
+
+.formulario_box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.formulario_box label {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+}
+
+.formulario_box input {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.3rem;
+    padding: 10px;
+    width: 310px;
+    border-radius: 20px;
+    border: none;
+}
+
+.formulario_box textarea {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.3rem;
+    padding: 10px;
+    border-radius: 20px;
+    width: 400px;
+    height: 100px;
+}
+
+
+button {
+    background-color: #22D4FD; 
+    color: #000000; 
+    border: none; 
+    width: 200px;
+    padding: 10px 20px;
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 16px; 
+    margin: 4px 2px; 
+    cursor: pointer; 
+    border-radius: 12px; 
+    transition: background-color 0.3s; 
+}
+
+
+button:hover {
+    background-color: #1AB2D1; 
+}
